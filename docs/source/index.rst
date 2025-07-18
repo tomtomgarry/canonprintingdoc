@@ -16,7 +16,7 @@ Several factors could be responsible for this problem. Here are the most common 
 - **Empty or Incorrectly Installed Ink Cartridges:** Low or empty ink levels or improperly seated cartridges can prevent printing.
 - **Print Queue Errors:** A stuck print job in the queue might block new jobs from processing.
 - **Outdated or Corrupted Printer Drivers:** Old or incompatible drivers may stop the printer from communicating correctly with your computer.
-- **Paper Jam or Hardware Issues:** Physical obstructions or internal hardware faults can halt printing tasks.
+- **Paper Jam or Hardware Issues:** Physical obstructions or internal hardware faults can halt printing tasks
 
 How to Fix a Canon Printer That’s Not Printing
 ----------------------------------------------
